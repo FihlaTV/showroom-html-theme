@@ -1,15 +1,27 @@
-# Showroom Website Template
-## For use with Datarhei/Restreamer
-Quick way to have a Showroom site running with a Datarhei/Restreamer video livestream and a dynamic background generated with the Restreamer snapshot. Modify index.html and graylog.css to get it running in a few minutes.  
+# Clean Bootstrap showroom HTML theme
+## Prepared to use with Datarhei/Restreamer
+Quick way to get a clean showroom website for [Datarhei/Restreamer](https://datarhei.github.io/restreamer).  
+This template features various content sections for Datarhei direct streaming, YouTube-Live, Usteam, a Contact section and a Google Maps section with a custom map marker. The snapshot is used as dynamic background via CSS. 
+
+[Download](https://github.com/datarhei/showroom-html-theme/archive/gh-pages.zip) and start modifying index.html and graylog.css. Get it running in a few minutes just adding your IP or DynDNS with a text editor or your favourite HTML tool. Upload all files on your webserver and start streaming without streaming provider.
 
 <img src="https://datarhei.github.io/restreamer/img/showroom-theme-scr.jpg" width="640" height="360">
 
+##Features
+
+* Datarhei/Restreamer iframe for direct streaming
+* Dynamic backgrounds via live snapshot
+* YouTube-Live section
+* Ustream secion
+* Contact section
+* Google Maps (default deactivated)
+
 ## Requirements
-* Datarhei Restreamer [https://datarhei.github.io/restreamer](https://datarhei.github.io/restreamer)
+* Running Datarhei/Restreamer with working video input. [https://datarhei.github.io/restreamer](https://datarhei.github.io/restreamer)
 
-## Getting Started with the Template
+## Getting started with the HTML theme
 
-To use this template, choose one of the following options to get started:
+To use this theme, choose one of the following options to get started:
 * Download the latest release on GitHub
 * Fork this repository on GitHub
 
@@ -28,32 +40,29 @@ Optional:
 * Put your IP or dynamic DNS at the intro section and ustream section to use the snapshot as background
 * Look at the code comments to find the right place.
 
-## Bugs and Issues
-
-Have a bug or an issue with this template? [Open a new issue](https://github.com/datarhei/showroom/issues) here on GitHub.
-
-## Forkinfo
- Datarhei modified the original Grayscale them to get it running with our Restreamer. 
-* https://twitter.com/datarhei  
-
-Thank you David Miller for you original sweet theme. 
+---
+**Datarhei Hint ☺ ►**  Do not forget portforwarding port :8080 to your Datarhei/Restreamer. This allows the video player on your website to stream the video from the local Restreamer application.
 
 ---
-## Original theme Grayscale
-by [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)  
+## Bugs and Issues
 
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+Have a bug or an issue with this theme? [Open a new issue](https://github.com/datarhei/showroom/issues) here on GitHub.
 
+## Credits
+Datarhei modified the original Grayscale template.  
+Thank you to David Miller for the sweet HTML theme. 
 
-#### Creator
+Grayscale by [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)  
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.    
+
+Start Bootstrap was created by and is maintained by David Miller, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).  
 
 * https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://github.com/davidtmiller  
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).  
 
-#### Copyright and License
+Copyright and License   
 
 Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-grayscale/blob/gh-pages/LICENSE) license.
