@@ -1,5 +1,5 @@
 # Clean Bootstrap showroom HTML theme
-## Prepared to use with Datarhei/Restreamer Quick way to get a clean showroom website for [Datarhei/Restreamer](https://datarhei.github.io/restreamer).  
+## Prepared to use with Datarhei/Restreamer to get a clean showroom website for [Datarhei/Restreamer](https://datarhei.github.io/restreamer).  
 This template features various content sections for Datarhei direct streaming, YouTube-Live, Usteam, a Contact section and a Google Maps section with a custom map marker. The snapshot is used as dynamic background via CSS. 
 
 [Download](https://github.com/datarhei/showroom-html-theme/archive/gh-pages.zip) and start modifying index.html and graylog.css. Get it running in a few minutes just adding your IP or DynDNS with a text editor or your favourite HTML tool. Upload all files on your webserver and start streaming without streaming provider.
