@@ -11,7 +11,7 @@ This template features various content sections for Datarhei direct streaming, Y
 * Datarhei/Restreamer iframe for direct streaming
 * Dynamic backgrounds via live snapshot
 * YouTube-Live section
-* Ustream secion
+* Ustream section
 * Contact section
 * Google Maps (default deactivated)
 
