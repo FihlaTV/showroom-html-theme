@@ -1,6 +1,8 @@
 # Showroom Website Template
 ## For use with Datarhei/Restreamer
-Quick way to have a Showroom site running with a Datarhei/Restreamer video livestream and a dynamic background generated with the Restreamer snapshot. Modify index.html and graylog.css to get it running in a few minutes.
+Quick way to have a Showroom site running with a Datarhei/Restreamer video livestream and a dynamic background generated with the Restreamer snapshot. Modify index.html and graylog.css to get it running in a few minutes.  
+
+<img src="https://datarhei.github.io/restreamer/img/showroom-theme-scr.jpg" width="640" height="360">
 
 ## Requirements
 * Datarhei Restreamer [https://datarhei.github.io/restreamer](https://datarhei.github.io/restreamer)
