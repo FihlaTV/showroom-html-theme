@@ -2,10 +2,6 @@
 ## For use with Datarhei/Restreamer
 Quick way to have a Showroom site running with a Datarhei/Restreamer video livestream and a dynamic background generated with the Restreamer snapshot. Modifie index.html and graylog.css to get it running in a few minutes.
 
-## Original theme Grayscale by [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)  
-
-[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
-
 ## Requirements
 * Datarhei Restreamer [https://datarhei.github.io/restreamer](https://datarhei.github.io/restreamer)
 
@@ -37,10 +33,15 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 ## Forkinfo
  Datarhei modified the original Grayscale them to get it running with our Restreamer. 
 * https://twitter.com/datarhei  
+
 Thank you David Miller for you original sweet theme. 
 
 ---
-Original README from here:
+## Original theme Grayscale
+by [Start Bootstrap](http://startbootstrap.com/) - [Grayscale](http://startbootstrap.com/template-overviews/grayscale/)  
+
+[Grayscale](http://startbootstrap.com/template-overviews/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features various content sections and a Google Maps section with a custom map marker.
+
 
 #### Creator
 
