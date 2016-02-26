@@ -29,7 +29,7 @@ To use this theme, choose one of the following options to get started:
 * Look at the code comments marked with <!-- --> to find where to add the code
 
 Optional: 
-* Add your YouTube-Live ID for livestreaming in the youtube section
+* Add your YouTube-Live ID for livestreaming in the YouTube section
 * Add your Ustream URL in the section for ustream
 * Change Contact information
 * If you dont need Ustream or YouTube delete or uncomment this both sections and do not forget to do the same in the navigation.
