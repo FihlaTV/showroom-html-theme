@@ -36,7 +36,7 @@ Have a bug or an issue with this template? [Open a new issue](https://github.com
 
 ## Forkinfo
  Datarhei modified the original Grayscale them to get it running with our Restreamer. 
-* https://twitter.com/datarhei
+* https://twitter.com/datarhei  
 Thank you David Miller for you original sweet theme. 
 
 ---
